@@ -1,0 +1,71 @@
+/* Scss Document */
+body {
+  padding-top: 50px; }
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center; }
+
+.navbar-default .navbar-nav {
+  float: right;
+  color: #666; }
+  .navbar-default .navbar-nav li a {
+    color: #DC4B25; }
+
+.background {
+  background-image: url(../images/background.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 240px;
+  display: block;
+  padding: 0 !important;
+  margin: 0;
+  float: none; }
+
+.carousel-inner .item img .item a img,
+.carousel-inner .item a img {
+  width: 70%;
+  margin: auto; }
+
+/* Scss Document */
+/*-----HEADER SOCIAL ICONS-----*/
+footer ul.social {
+  float: right;
+  display: block;
+  list-style-type: none;
+  padding: 20px; }
+  footer ul.social li {
+    float: left; }
+    footer ul.social li a {
+      display: block;
+      background-image: url(../images/icons2.png);
+      width: 60px;
+      height: 60px;
+      list-style-type: none; }
+
+/*first value is X, second value is Y*/
+ul.social .googleplus a {
+  background-position: 0px 60px; }
+
+ul.social .deviantart a {
+  background-position: -60px 60px; }
+
+ul.social .facebook a {
+  background-position: -120px 60px; }
+
+ul.social .twitter a {
+  background-position: -180px 60px; }
+
+ul.social .googleplus a:hover {
+  background-position: -0px 0px; }
+
+ul.social .deviantart a:hover {
+  background-position: -60px 0px; }
+
+ul.social .facebook a:hover {
+  background-position: -120px 0px; }
+
+ul.social .twitter a:hover {
+  background-position: -180px 0px; }
+
+/*# sourceMappingURL=my-styles.css.map */
